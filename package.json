@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://varshikaindukuru.github.io/project77",
+  "homepage": "https://varshikaindukuru.github.io/project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
